@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Yuanyuan Wu
-
 I am a **Postdoctoral Researcher** in the [Division of Transport Planning](https://www.kth.se/abe/inst/byv/avd/trafik), Department of Civil and Architectural Engineering, at **KTH Royal Institute of Technology**, Sweden.  
 
 I am an **AI-driven urban informatics researcher** with expertise in transport systems, synthetic data generation, and privacy-preserving mobility analytics. My work sits at the intersection of **transport planning, machine learning, and urban studies**, and I have research and professional experience spanning **China, Singapore, Hong Kong, and Europe**.  
@@ -104,13 +102,5 @@ My research contributes to advancing **mobility system modeling, data-driven beh
 - Wu, Y., Wang, D.Z.W., Zhu, F. (2025). *Traffic efficiency and fairness optimisation for autonomous intersection management based on reinforcement learning.* Transportmetrica A.  
 
 [Full list of publications](/publications)
-
----
-
-## Contact
-
-- 📧 Email: yuanwu@kth.se  darinywu@outlook.com
-- 📞 Phone: (+46) 0736451051  
-- 🌐 [Google Scholar](https://scholar.google.com.sg/citations?user=2kj43BQAAAAJ&hl=en) | [GitHub](https://github.com/darinywu) | [LinkedIn](https://www.linkedin.com/in/yuanyuan-wu-6994202a6/)
 
 ---
