@@ -7,12 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Postdoctoral Researcher** in the [Division of Transport Planning](https://www.kth.se/abe/inst/byv/avd/trafik), Department of Civil and Architectural Engineering, at **KTH Royal Institute of Technology**, Sweden.  
+I am a **Postdoctoral Researcher** in the Division of Transport Planning, Department of Civil and Architectural Engineering, at **KTH Royal Institute of Technology**, Sweden.  
 
-I am an **AI-driven urban informatics researcher** with expertise in transport systems, synthetic data generation, and privacy-preserving mobility analytics. My work sits at the intersection of **transport planning, machine learning, and urban studies**, and I have research and professional experience spanning **China, Singapore, Hong Kong, and Europe**.  
-
-My research contributes to advancing **mobility system modeling, data-driven behavior analysis, and AI methods for policy evaluation** in public transport and autonomous systems. I have a strong publication record, active involvement in funded projects, and teaching experience in applied AI and transport analytics.
-
+I am an **AI-driven urban mobility researcher** with expertise in autonomous driving management, synthetic data generation, and privacy-preserving mobility analytics. My work sits at the intersection of **transport planning and management, machine learning, and urban behavioural analysis**, and I have research and professional experience spanning **China, Singapore, Hong Kong, and Europe**.  
 ---
 
 ## Education
@@ -43,13 +40,13 @@ My research contributes to advancing **mobility system modeling, data-driven beh
 
 - **Doctoral Researcher**  
   *Nanyang Technological University, Singapore* (2017–2021)  
-  - Research on **autonomous intersection management**, connected vehicles, and reinforcement learning for transport operations.  
+  - Research on **autonomous intersection management**, connected vehicles, and reinforcement learning.  
 
 ---
 
 ## Research Grants & Projects
 
-- **PI, Trafik och Region 2026 (Stockholm)** (2025–2027, SEK 1.6M)  
+- **PI, Trafik och Region 2026 (Stockholm)** (2026–2027, SEK 1.6M)  
   *Privacy-preserving synthetic trip generation for public transit from smart card data.*  
 
 - **Co-Investigator, Digital Futures “cAIMBER” Project** (2023–2025, SEK 2.0M)  
@@ -59,7 +56,7 @@ My research contributes to advancing **mobility system modeling, data-driven beh
   *Ethical dilemma of autonomous driving.*  
 
 - **Co-Investigator, NTU–WeBank Joint Research Centre on FinTech** (2020–2022, S$200k)  
-
+  *Optimization of autonomous driving.*  
 - **PhD Researcher, Singapore Ministry of Education Tier 2 Grant (MOE2017-T2-1-029)** (2017–2021)  
   *Autonomous intersection management.*  
 
@@ -100,7 +97,5 @@ My research contributes to advancing **mobility system modeling, data-driven beh
 - Zhang, Q., Ma, Z., Wu, Y., Liu, Y., Qu, X. (2025). *Quantifying variable contributions to bus operation delays considering causal relationships.* Transportation Research Part E, 194:103881.  
 - Wu, Y., Chen, H., Zhu, F. (2019). *DCL-AIM: Decentralized coordination learning of autonomous intersection management for CAVs.* TRC, 103:246–260.  
 - Wu, Y., Wang, D.Z.W., Zhu, F. (2025). *Traffic efficiency and fairness optimisation for autonomous intersection management based on reinforcement learning.* Transportmetrica A.  
-
-[Full list of publications](/publications)
 
 ---
