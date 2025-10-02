@@ -9,7 +9,8 @@ redirect_from:
 
 I am a **Postdoctoral Researcher** in the Division of Transport Planning, Department of Civil and Architectural Engineering, at **KTH Royal Institute of Technology**, Sweden.  
 
-I am an **AI-driven urban mobility researcher** with expertise in autonomous driving management, synthetic data generation, and privacy-preserving mobility analytics. My work sits at the intersection of **transport planning and management, machine learning, and urban behavioural analysis**, and I have research and professional experience spanning **China, Singapore, Hong Kong, and Europe**.  
+I am an **AI-driven urban mobility researcher** with expertise in reinforcement learning, synthetic data generation, and mobility analytics. My work sits at the intersection of **transport planning and management, travel behavioural analysis and machine learning**, and I have research and professional experience spanning **China, Singapore, Hong Kong, and Europe**.  
+
 ---
 
 ## Education
